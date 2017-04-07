@@ -1,0 +1,55 @@
+﻿body
+ {
+      font-family: 'Noto Sans Japanese',sans-serif; 
+      font-weight: 600;
+      line-height:1.8;
+}
+
+#wrapper {
+      width: 1440px;
+      margin: 0 auto;
+}
+
+h1 {
+      font-size: 180%;
+      text-align:center;
+}
+h2 {
+      font-size:115%;
+      text-align:center;
+}
+
+p {
+      margin: 0 20px 0 10px;
+}
+
+#header {
+      height: 80px;
+}
+
+#container {
+      position: relative;
+      margin: 10px 0;
+      width: 100%;
+      top: 1px;
+      left: 0px;
+}
+
+#primary {
+      margin-left:280px;
+      background-color:palegoldenrod;
+}
+
+#secondary {
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      width: 260px;
+      background-color:yellow;
+}
+
+
+
+
+
+

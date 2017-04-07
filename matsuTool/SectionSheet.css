@@ -1,0 +1,48 @@
+﻿body {
+      
+      font-weight:600;
+      font-family:'Noto Sans Japanese',sans-serif;
+      line-height:2.1;
+      letter-spacing:0.4em;
+      margin:10px;
+      padding:0;
+}
+
+h1 {
+      font-size: 180%;
+      margin:0 0 20px 0;
+      padding:20px;
+}
+
+h2 {
+      font-size: 117%;
+      margin:0;
+      padding:10px;
+}
+
+p {
+      padding: 10px 10px 20px 20px;
+}
+
+#header {
+      width: 1040px;
+}
+
+#content {
+      position:relative;
+      margin:0;
+}
+
+.section {
+      margin: 50px 10px;
+}
+
+
+
+
+
+
+
+
+
+
